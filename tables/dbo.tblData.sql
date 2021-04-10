@@ -5,7 +5,7 @@ PURPOSE: Create the [dbo].[tblData] table
 MODIFICATION LOG:
 Ver      Date        Author        Description
 -----   ----------   -----------   -------------------------------------------------------------------------------
-1.0     08/02/2019   JJAUSSI       1. Built this table for LDS BC IT240
+1.0     03/27/2021    UUDO       1. Built this table for LDS BC IT240
 
 
 RUNTIME: 
